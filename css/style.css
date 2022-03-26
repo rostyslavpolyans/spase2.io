@@ -1,0 +1,28 @@
+h1{
+	color: #fe0e0e;
+}
+
+.p1{
+	background: #0000fe;
+	width: 100px;
+	height: 75px;
+	margin-bottom: 75px;
+}
+
+p span{
+	color: #fe0e0e;
+}
+
+h2{
+	background: #008001;
+	color: #fff;
+
+}
+
+h2.inside{
+padding: 50px;
+}
+
+li{
+	border: 1px solid #000;
+}
